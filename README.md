@@ -1,1 +1,3 @@
-# cram.github.io
+# About Cram
+
+Working on a project or studying for a test and wishing you could get some help?  As young college students majoring in computer science, we've all been there.  We know that everyone has their own strengths and weaknesses and believe collaboration, in the form of study groups, will help to strengthen student’s weaknesses by drawing on the strengths of the group.  At times school can be stressful and overwhelming and gathering others contact information and arranging times to study is the last thing on a student’s mind.  We at cram seek to facilitate the formation of study groups via our app.  It is our hope that our app allows students to collaborate, learn, and succeed!
